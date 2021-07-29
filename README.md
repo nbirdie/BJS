@@ -1,4 +1,4 @@
-# BJS. 
+# BJS
 *Проект Blackjack Solitaire*
 
 
