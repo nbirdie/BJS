@@ -1,5 +1,5 @@
 # BJS
-*Проект Blackjack Solitaire*
+**Проект Blackjack Solitaire**
 
 
 1. Описание проекта 
